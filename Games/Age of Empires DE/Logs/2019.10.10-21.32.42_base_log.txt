@@ -1,0 +1,305 @@
+------------------------------
+program=R:\Age of Empires Definitive Edition\AoEDE_s.exe, size=20942336, date=8/8/2019, time=9:27:17
+options="R:\Age of Empires Definitive Edition\AoEDE_s.exe" 
+RLink TraceLog [21:32:49.424  Requesting ticket]
+RLink TraceLog [21:32:49.457  OnRequest app ticket returned N]
+RLink TraceLog [21:32:49.457  SteamAuth received ticket at t=580011583]
+RLink TraceLog [21:32:50.424  adding cookie to the cookie jar - ApplicationGatewayAffinity=abf5b3597d67cdb90fc7f3456626b90f5fe17917138f3d3c9ea43669b8f26792;Path=/;Domain=aoe-api.reliclink.com]
+RLink TraceLog [21:32:50.442  LoginAsync - response good: 1145 bytes, [4,null,null,1570732371,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:32:50.442  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:32:50.457  Ticket was received 999 seconds ago (timeout 180000)]
+RLink TraceLog [21:32:50.474  Ticket was received 1016 seconds ago (timeout 180000)]
+RLink TraceLog [21:32:50.491  Throttling login for 5000 milliseconds]
+RLink TraceLog [21:32:55.356  LoginAsync - response good: 1145 bytes, [4,null,null,1570732376,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:32:55.356  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:32:55.473  Ticket was received 6016 seconds ago (timeout 180000)]
+RLink TraceLog [21:32:55.490  Ticket was received 6032 seconds ago (timeout 180000)]
+RLink TraceLog [21:32:55.506  Throttling login for 11000 milliseconds]
+RLink TraceLog [21:33:06.878  NetworkManager::DispatchEvents() - Warning - Time between calls was 3007 ms]
+RLink TraceLog [21:33:07.771  LoginAsync - response good: 1145 bytes, [4,null,null,1570732388,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:33:07.771  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:33:07.805  Ticket was received 18347 seconds ago (timeout 180000)]
+RLink TraceLog [21:33:07.838  Ticket was received 18380 seconds ago (timeout 180000)]
+RLink TraceLog [21:33:08.705  NewsCache - response was failure: 400 <html><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8"/><title>Error 400 Error for param title=age1 : Unknown</title></head><body><h2>HTTP ERROR 400</h2><p>Problem accessing /game/news/getNews. Reason:<pre>    Error for param title=age1 : Unknown</pre></p></body></html>]
+RLink TraceLog [21:33:08.738  Throttling login for 15000 milliseconds]
+RLink TraceLog [21:33:22.836  LoginAsync - response good: 1145 bytes, [4,null,null,1570732403,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:33:22.836  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:33:22.869  Ticket was received 33412 seconds ago (timeout 180000)]
+RLink TraceLog [21:33:22.903  Ticket was received 33445 seconds ago (timeout 180000)]
+RLink TraceLog [21:33:22.936  Throttling login for 20000 milliseconds]
+game started
+    randomgame=-1, randommap=-1, mapsize=Средняя (2 игрока), maptype=Прибрежная зона
+    resources=Default, age=Default, victory=Unknown, difficulty=Сложнейший
+    fulltech=false, revealmap=true
+    numplayers=3, players=111, teams=000, civs=1 2 3 
+RLink TraceLog [21:33:42.834  LoginAsync - response good: 1145 bytes, [4,null,null,1570732423,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:33:42.834  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:33:42.867  Ticket was received 53410 seconds ago (timeout 180000)]
+RLink TraceLog [21:33:42.901  Ticket was received 53444 seconds ago (timeout 180000)]
+RLink TraceLog [21:33:42.934  Throttling login for 16000 milliseconds]
+RLink TraceLog [21:33:43.006  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:33:58.901  LoginAsync - response good: 1145 bytes, [4,null,null,1570732439,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:33:58.901  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:33:58.936  Ticket was received 69479 seconds ago (timeout 180000)]
+RLink TraceLog [21:33:58.970  Ticket was received 69513 seconds ago (timeout 180000)]
+RLink TraceLog [21:33:59.004  Throttling login for 27000 milliseconds]
+RLink TraceLog [21:34:25.986  LoginAsync - response good: 1145 bytes, [4,null,null,1570732466,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:34:25.986  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:34:26.028  Ticket was received 96571 seconds ago (timeout 180000)]
+RLink TraceLog [21:34:26.067  Ticket was received 96610 seconds ago (timeout 180000)]
+RLink TraceLog [21:34:26.118  Throttling login for 22000 milliseconds]
+RLink TraceLog [21:34:44.002  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:34:47.959  LoginAsync - response good: 1145 bytes, [4,null,null,1570732488,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:34:47.959  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:34:47.997  Ticket was received 118539 seconds ago (timeout 180000)]
+RLink TraceLog [21:34:48.034  Ticket was received 118577 seconds ago (timeout 180000)]
+RLink TraceLog [21:34:48.076  Throttling login for 20000 milliseconds]
+RLink TraceLog [21:35:08.044  LoginAsync - response good: 1145 bytes, [4,null,null,1570732508,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:35:08.044  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:35:08.093  Ticket was received 138635 seconds ago (timeout 180000)]
+RLink TraceLog [21:35:08.131  Ticket was received 138673 seconds ago (timeout 180000)]
+RLink TraceLog [21:35:08.173  Throttling login for 40000 milliseconds]
+RLink TraceLog [21:35:45.010  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:35:47.985  LoginAsync - response good: 1145 bytes, [4,null,null,1570732548,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:35:47.985  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:35:48.018  Ticket was received 178561 seconds ago (timeout 180000)]
+RLink TraceLog [21:35:48.057  Ticket was received 178599 seconds ago (timeout 180000)]
+RLink TraceLog [21:35:48.092  Throttling login for 47000 milliseconds]
+RLink TraceLog [21:36:35.109  LoginAsync - response good: 1145 bytes, [4,null,null,1570732595,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:36:35.109  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:36:35.149  Ticket was received 225692 seconds ago (timeout 180000)]
+RLink TraceLog [21:36:35.149  Requesting ticket]
+RLink TraceLog [21:36:35.189  OnRequest app ticket returned N]
+RLink TraceLog [21:36:35.189  SteamAuth received ticket at t=580237314]
+RLink TraceLog [21:36:35.271  Throttling login for 53000 milliseconds]
+RLink TraceLog [21:36:46.006  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:37:27.221  libcurl: Took too long - 93]
+RLink TraceLog [21:37:28.135  LoginAsync - response good: 1145 bytes, [4,null,null,1570732648,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:37:28.135  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:37:28.172  Ticket was received 52984 seconds ago (timeout 180000)]
+RLink TraceLog [21:37:28.210  Ticket was received 53022 seconds ago (timeout 180000)]
+RLink TraceLog [21:37:28.244  Throttling login for 29000 milliseconds]
+RLink TraceLog [21:37:47.005  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:37:57.075  LoginAsync - response good: 1145 bytes, [4,null,null,1570732677,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:37:57.075  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:37:57.119  Ticket was received 81930 seconds ago (timeout 180000)]
+RLink TraceLog [21:37:57.157  Ticket was received 81969 seconds ago (timeout 180000)]
+RLink TraceLog [21:37:57.202  Throttling login for 36000 milliseconds]
+RLink TraceLog [21:38:33.064  LoginAsync - response good: 1145 bytes, [4,null,null,1570732713,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:38:33.064  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:38:33.112  Ticket was received 117924 seconds ago (timeout 180000)]
+RLink TraceLog [21:38:33.158  Ticket was received 117970 seconds ago (timeout 180000)]
+RLink TraceLog [21:38:33.205  Throttling login for 9000 milliseconds]
+RLink TraceLog [21:38:42.063  LoginAsync - response good: 1145 bytes, [4,null,null,1570732722,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:38:42.064  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:38:42.100  Ticket was received 126911 seconds ago (timeout 180000)]
+RLink TraceLog [21:38:42.136  Ticket was received 126948 seconds ago (timeout 180000)]
+RLink TraceLog [21:38:42.180  Throttling login for 41000 milliseconds]
+RLink TraceLog [21:38:48.010  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:39:23.217  LoginAsync - response good: 1145 bytes, [4,null,null,1570732763,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:39:23.217  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:39:23.258  Ticket was received 168070 seconds ago (timeout 180000)]
+RLink TraceLog [21:39:23.299  Ticket was received 168111 seconds ago (timeout 180000)]
+RLink TraceLog [21:39:23.342  Throttling login for 13000 milliseconds]
+RLink TraceLog [21:39:36.207  LoginAsync - response good: 1145 bytes, [4,null,null,1570732776,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:39:36.207  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:39:36.248  Ticket was received 181059 seconds ago (timeout 180000)]
+RLink TraceLog [21:39:36.248  Requesting ticket]
+RLink TraceLog [21:39:36.291  OnRequest app ticket returned N]
+RLink TraceLog [21:39:36.291  SteamAuth received ticket at t=580418417]
+RLink TraceLog [21:39:36.374  Throttling login for 23000 milliseconds]
+RLink TraceLog [21:39:49.004  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:39:59.203  LoginAsync - response good: 1145 bytes, [4,null,null,1570732799,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:39:59.203  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:39:59.258  Ticket was received 22967 seconds ago (timeout 180000)]
+RLink TraceLog [21:39:59.312  Ticket was received 23021 seconds ago (timeout 180000)]
+RLink TraceLog [21:39:59.359  Throttling login for 35000 milliseconds]
+RLink TraceLog [21:40:34.283  LoginAsync - response good: 1145 bytes, [4,null,null,1570732835,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:40:34.283  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:40:34.333  Ticket was received 58041 seconds ago (timeout 180000)]
+RLink TraceLog [21:40:34.385  Ticket was received 58093 seconds ago (timeout 180000)]
+RLink TraceLog [21:40:34.432  Throttling login for 11000 milliseconds]
+RLink TraceLog [21:40:45.332  LoginAsync - response good: 1145 bytes, [4,null,null,1570732846,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:40:45.332  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:40:45.381  Ticket was received 69090 seconds ago (timeout 180000)]
+RLink TraceLog [21:40:45.432  Ticket was received 69140 seconds ago (timeout 180000)]
+RLink TraceLog [21:40:45.481  Throttling login for 33000 milliseconds]
+RLink TraceLog [21:40:50.004  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:41:18.361  LoginAsync - response good: 1145 bytes, [4,null,null,1570732879,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:41:18.361  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:41:18.411  Ticket was received 102120 seconds ago (timeout 180000)]
+RLink TraceLog [21:41:18.461  Ticket was received 102169 seconds ago (timeout 180000)]
+RLink TraceLog [21:41:18.510  Throttling login for 37000 milliseconds]
+RLink TraceLog [21:41:51.005  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:41:55.399  LoginAsync - response good: 1145 bytes, [4,null,null,1570732916,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:41:55.400  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:41:55.445  Ticket was received 139154 seconds ago (timeout 180000)]
+RLink TraceLog [21:41:55.491  Ticket was received 139200 seconds ago (timeout 180000)]
+RLink TraceLog [21:41:55.539  Throttling login for 64000 milliseconds]
+RLink TraceLog [21:42:52.010  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:42:59.392  LoginAsync - response good: 1145 bytes, [4,null,null,1570732980,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:42:59.392  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:42:59.448  Ticket was received 203157 seconds ago (timeout 180000)]
+RLink TraceLog [21:42:59.448  Requesting ticket]
+RLink TraceLog [21:42:59.505  OnRequest app ticket returned N]
+RLink TraceLog [21:42:59.505  SteamAuth received ticket at t=580621630]
+RLink TraceLog [21:42:59.617  Throttling login for 13000 milliseconds]
+RLink TraceLog [21:43:12.362  LoginAsync - response good: 1145 bytes, [4,null,null,1570732993,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:43:12.362  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:43:12.417  Ticket was received 12912 seconds ago (timeout 180000)]
+RLink TraceLog [21:43:12.474  Ticket was received 12970 seconds ago (timeout 180000)]
+RLink TraceLog [21:43:12.530  Throttling login for 37000 milliseconds]
+RLink TraceLog [21:43:49.425  LoginAsync - response good: 1145 bytes, [4,null,null,1570733030,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:43:49.425  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:43:49.475  Ticket was received 49970 seconds ago (timeout 180000)]
+RLink TraceLog [21:43:49.525  Ticket was received 50021 seconds ago (timeout 180000)]
+RLink TraceLog [21:43:49.575  Throttling login for 55000 milliseconds]
+RLink TraceLog [21:43:53.003  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:44:44.428  LoginAsync - response good: 1145 bytes, [4,null,null,1570733085,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:44:44.429  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:44:44.468  Ticket was received 104963 seconds ago (timeout 180000)]
+RLink TraceLog [21:44:44.509  Ticket was received 105005 seconds ago (timeout 180000)]
+RLink TraceLog [21:44:44.551  Throttling login for 54000 milliseconds]
+RLink TraceLog [21:44:54.003  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:45:38.445  LoginAsync - response good: 1145 bytes, [4,null,null,1570733139,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:45:38.445  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:45:38.495  Ticket was received 158990 seconds ago (timeout 180000)]
+RLink TraceLog [21:45:38.545  Ticket was received 159041 seconds ago (timeout 180000)]
+RLink TraceLog [21:45:38.594  Throttling login for 54000 milliseconds]
+RLink TraceLog [21:45:55.007  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:46:32.614  LoginAsync - response good: 1145 bytes, [4,null,null,1570733193,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:46:32.614  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:46:32.655  Ticket was received 213150 seconds ago (timeout 180000)]
+RLink TraceLog [21:46:32.655  Requesting ticket]
+RLink TraceLog [21:46:32.698  OnRequest app ticket returned N]
+RLink TraceLog [21:46:32.698  SteamAuth received ticket at t=580834824]
+RLink TraceLog [21:46:32.788  Throttling login for 47000 milliseconds]
+RLink TraceLog [21:46:56.007  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:47:19.616  LoginAsync - response good: 1145 bytes, [4,null,null,1570733240,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:47:19.616  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:47:19.659  Ticket was received 46961 seconds ago (timeout 180000)]
+RLink TraceLog [21:47:19.702  Ticket was received 47004 seconds ago (timeout 180000)]
+RLink TraceLog [21:47:19.749  Throttling login for 54000 milliseconds]
+(PIF)Creating Player Info File
+(PIF)Saving player - CODEX
+  (PIF)Saving campaign - (11) 1 Ascent of Egypt
+  (PIF)Saving campaign - (7) 2 Glory of Greece
+  (PIF)Saving campaign - (1) 3 Voices of Babylon
+RLink TraceLog [21:47:57.010  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+game started
+    randomgame=29346, randommap=-1, mapsize=Средняя (2 игрока), maptype=Прибрежная зона
+    resources=Default, age=Default, victory=Default, difficulty=Лёгкий
+    fulltech=false, revealmap=false
+    numplayers=4, players=1234, teams=0000, civs=1 2 3 4 
+RLink TraceLog [21:48:13.559  LoginAsync - response good: 1145 bytes, [4,null,null,1570733294,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:48:13.559  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:48:13.592  Ticket was received 100893 seconds ago (timeout 180000)]
+RLink TraceLog [21:48:13.625  Ticket was received 100927 seconds ago (timeout 180000)]
+RLink TraceLog [21:48:13.658  Throttling login for 14000 milliseconds]
+RLink TraceLog [21:48:27.606  LoginAsync - response good: 1145 bytes, [4,null,null,1570733308,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:48:27.607  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:48:27.640  Ticket was received 114941 seconds ago (timeout 180000)]
+RLink TraceLog [21:48:27.674  Ticket was received 114975 seconds ago (timeout 180000)]
+RLink TraceLog [21:48:27.706  Throttling login for 40000 milliseconds]
+RLink TraceLog [21:48:58.001  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:49:07.669  LoginAsync - response good: 1145 bytes, [4,null,null,1570733348,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:49:07.669  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:49:07.707  Ticket was received 155009 seconds ago (timeout 180000)]
+RLink TraceLog [21:49:07.752  Ticket was received 155054 seconds ago (timeout 180000)]
+RLink TraceLog [21:49:07.790  Throttling login for 36000 milliseconds]
+RLink TraceLog [21:49:43.706  LoginAsync - response good: 1145 bytes, [4,null,null,1570733384,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:49:43.706  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:49:43.752  Ticket was received 191053 seconds ago (timeout 180000)]
+RLink TraceLog [21:49:43.752  Requesting ticket]
+RLink TraceLog [21:49:43.785  OnRequest app ticket returned N]
+RLink TraceLog [21:49:43.785  SteamAuth received ticket at t=581025910]
+RLink TraceLog [21:49:43.874  Throttling login for 59000 milliseconds]
+RLink TraceLog [21:49:59.002  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:50:42.723  LoginAsync - response good: 1145 bytes, [4,null,null,1570733443,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:50:42.723  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:50:42.774  Ticket was received 58989 seconds ago (timeout 180000)]
+RLink TraceLog [21:50:42.823  Ticket was received 59039 seconds ago (timeout 180000)]
+RLink TraceLog [21:50:42.873  Throttling login for 20000 milliseconds]
+RLink TraceLog [21:51:00.000  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:51:02.725  LoginAsync - response good: 1145 bytes, [4,null,null,1570733463,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:51:02.725  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:51:02.758  Ticket was received 78974 seconds ago (timeout 180000)]
+RLink TraceLog [21:51:02.790  Ticket was received 79006 seconds ago (timeout 180000)]
+RLink TraceLog [21:51:02.823  Throttling login for 35000 milliseconds]
+RLink TraceLog [21:51:37.753  LoginAsync - response good: 1145 bytes, [4,null,null,1570733498,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:51:37.753  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:51:37.785  Ticket was received 114001 seconds ago (timeout 180000)]
+RLink TraceLog [21:51:37.816  Ticket was received 114032 seconds ago (timeout 180000)]
+RLink TraceLog [21:51:37.851  Throttling login for 58000 milliseconds]
+(PIF)Creating Player Info File
+(PIF)Saving player - CODEX
+  (PIF)Saving campaign - (11) 1 Ascent of Egypt
+  (PIF)Saving campaign - (7) 2 Glory of Greece
+  (PIF)Saving campaign - (2) 3 Voices of Babylon
+game started
+    randomgame=14209, randommap=-1, mapsize=Средняя (2 игрока), maptype=Прибрежная зона
+    resources=Default, age=Default, victory=Default, difficulty=Лёгкий
+    fulltech=false, revealmap=false
+    numplayers=4, players=1234, teams=0000, civs=1 2 3 4 
+RLink TraceLog [21:52:01.010  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+(PIF)Creating Player Info File
+(PIF)Saving player - CODEX
+  (PIF)Saving campaign - (11) 1 Ascent of Egypt
+  (PIF)Saving campaign - (7) 2 Glory of Greece
+  (PIF)Saving campaign - (3) 3 Voices of Babylon
+RLink TraceLog [21:52:35.709  LoginAsync - response good: 1145 bytes, [4,null,null,1570733556,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:52:35.709  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:52:35.727  Ticket was received 171942 seconds ago (timeout 180000)]
+RLink TraceLog [21:52:35.742  Ticket was received 171958 seconds ago (timeout 180000)]
+RLink TraceLog [21:52:35.759  Throttling login for 35000 milliseconds]
+game started
+    randomgame=13656, randommap=-1, mapsize=Средняя (2 игрока), maptype=Прибрежная зона
+    resources=Default, age=Default, victory=Default, difficulty=Лёгкий
+    fulltech=false, revealmap=false
+    numplayers=4, players=1234, teams=0000, civs=1 2 3 4 
+RLink TraceLog [21:53:02.008  Transport - median kBPS [hi/cur] sent = 0.0/0.0, recvd = 0.0/0.0, #p/sec[s/r] = 0.0/0.0, max unsent 0, version err 0, merge 0]
+RLink TraceLog [21:53:10.805  LoginAsync - response good: 1145 bytes, [4,null,null,1570733591,null,[],0,0,null,[],[["RL_KEEPALIVE","20"],["RL_DISCONNECT","10"],["RL_MISSPOLL","2"],["RL_TELEMSERVICE","0"],["RL_TELEMREPORTPCT","1.0"],["RL_TELEMKINESISID","AKIAIORXEVKIDGNK3AOQ"],["RL_TELEMKINESISKEY","tgfTS9zWjMyGbOCa4s+jtse2dui6BwRKa3fv2HVc"],["RL_TELEMKINESISHOST","kinesis.us-east-1.amazonaws.com"],["RL_TELEMKINESISSTREAM","s3DevStream"],["RL_TELEMCELLHOST","cardinal-int.maelstrom.gameservices.xboxlive.com"],["RL_TELEMCELL]
+RLink TraceLog [21:53:10.805  Found 0 profiles for account ]
+RLink Platform: Login fail! (result = 4)
+RLink TraceLog [21:53:10.855  Ticket was received 207071 seconds ago (timeout 180000)]
+RLink TraceLog [21:53:10.855  Requesting ticket]
+RLink TraceLog [21:53:10.905  OnRequest app ticket returned N]
+RLink TraceLog [21:53:10.905  SteamAuth received ticket at t=581233031]
+RLink TraceLog [21:53:11.005  Throttling login for 20000 milliseconds]

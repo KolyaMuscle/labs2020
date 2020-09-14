@@ -1,0 +1,80 @@
+00000000: TErrorHandler->Construct
+00000001: TFileSystem()->Construct
+00000001: Program Executable: R:\Age of Empires Definitive Edition\AoEDE_s.exe
+00000001: Current Directory: R:\Age of Empires Definitive Edition\
+00000001: TFileSystem()->InitializeStoragePoints()
+00000001: SP PROGRAM_PATH: R:\Age of Empires Definitive Edition\
+00000002: SP GAME_ROOT: R:\Age of Empires Definitive Edition\
+00000002: SP USER: C:\Users\NikVas\
+00000002: SP TEMP_FILES: C:\Users\NikVas\AppData\Local\Temp\
+00000002: TSettings->Construct()
+00000004: game->Config()
+00000007: Platform->Startup()
+00000007: game->Startup()
+00000165: InitGlobalSystems()
+00000167: InitRelicLink()
+00000212: InitStoragePoints
+00000451: TSettings->Load()
+00000453: TSettings->Locate global settings in cloud = true
+00000454: TSettings->global settings retreived from cloud = true
+00000454: TSettings->Load( 'global_settings.ini' ) = true
+00000455: TSettings->Load( 'settings.ini' ) = true
+00001678: TRIBE_Game->Construct()
+00001688: TRIBE_Game->setup()
+00001767: InitMainWindow()
+00001769: TDrawSystemD3D11->Construct()
+00001769: MediaPlayerManager->Construct()
+00001782: Adapter 0 = "Intel(R) HD Graphics Family"
+00001783:    VendorId: 0x00008086
+00001783:    DeviceId: 0x00000a16
+00001784:    SubSysId: 0x05de1028
+00001784:    Revision: 0x00000009
+00001784:    LUID:     0x0000000000008373
+00001784:    Flags:    0x00000000
+00001785:    VRAM:     117964800
+00001785:    Sys Mem:  0
+00001785:    SharedM:  2147483648
+00001785: TDrawSystemD3D11->CreatingDevice
+00001794: -- CreateDevice OK = true
+00001794: -- FeatureLevel OK = true, level = D3D_FEATURE_LEVEL_11_0
+00001794: Adapter 1 = "Microsoft Basic Render Driver"
+00001794:    VendorId: 0x00001414
+00001795:    DeviceId: 0x0000008c
+00001795:    SubSysId: 0x00000000
+00001795:    Revision: 0x00000000
+00001795:    LUID:     0x0000000000008701
+00001796:    Flags:    0x00000002
+00001796:    VRAM:     0
+00001796:    Sys Mem:  0
+00001796:    SharedM:  4245444608
+00001796: TDrawSystemD3D11->CreatingDevice
+00001801: -- CreateDevice OK = true
+00001801: -- FeatureLevel OK = true, level = D3D_FEATURE_LEVEL_11_0
+00001801: Preferred Video Adapter found = true, Index = 0, name = "Intel(R) HD Graphics Family"
+00001801: TDrawSystemD3D11->Init()
+00001802: TDrawSystemD3D11->CreatingDevice
+00004717: MediaPlayerManager->Initialize()
+00008435: TSettings->Save()
+00008475: TSettings->Load()
+00008476: TSettings->Load( 'global_settings.ini' ) = true
+00008476: TSettings->Load( 'settings.ini' ) = true
+00008476: ## LOADING GAME INFO: game1.nfo
+00064491: TribeScreenMainMenu_DE->Construct
+00065761: Main Menu Created OK
+00067309: <Single Player>
+00070123: Main Menu->Destructor
+00077207: TRIBE_World::new_game(0)
+00077210: TRIBE_World::new_game(1)
+00077210: TRIBE_World::new_game(2)
+00088228: ## SAVING GAME INFO: game1.nfo
+00095832: TSettings->Save()
+00097990: TRIBE_World::new_game(0)
+00097994: TRIBE_World::new_game(1)
+00097994: TRIBE_World::new_game(2)
+01432963: Platform->Shutdown()
+01432964: game->Shutdown()
+01432965: TSettings->Save()
+01432983: TSettings->Save()
+01432986: TSettings->Save()
+01433235: MediaPlayerManager->Destruct()
+01433675: FinalGlobalSystems()
